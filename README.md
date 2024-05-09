@@ -29,4 +29,3 @@
 - Close Price: The close price on each trading date.
 - Volume: The volume of each company traded on each trading day. 
 - Adjusted close price: The adjusted closing price on each trading day, which reflects the true stock value after certain adjustments.  
-
