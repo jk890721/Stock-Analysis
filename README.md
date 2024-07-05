@@ -1,5 +1,5 @@
 ## Overview
-#### In this project are doing the exploratory data analysis of eight different companies, which are Magnificent 7(MSFT, AMZN, META, AAPL, GOOGL, NVDA, TSLA). Analyzing the change in stock prices from 2014 to 2024, computing moving averages for various stocks across 5, 50, and 120 days, estimating anticipated returns and risk per share, and predicting future stock prices using the LSTM machine learning method. 
+#### In this project are doing the exploratory data analysis of eight different companies, which are Magnificent 7(MSFT, AMZN, META, AAPL, GOOGL, NVDA, TSLA). Analyzing the change in stock prices from 2014 to 2024, computing moving averages for various stocks across 5, 50, and 120 days, calculating the returns and risk per share, and predicting future stock prices using the LSTM machine learning method. 
 
 
 ## We will discover: 
