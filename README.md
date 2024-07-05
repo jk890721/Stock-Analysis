@@ -5,7 +5,7 @@
 ## We will discover: 
 -  What was the change in stock prices from 2014 to 2024?
 -  What was the moving average for these stocks? (5, 50, and 120 days)
--  What are the anticipated returns and risks associated with each stock per share?
+-  What are the returns and risks associated with each stock per share?
 -  Predict the future price stock LSTM machine learning method. 
 
 
